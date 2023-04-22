@@ -1,2 +1,11 @@
 # hello-world
-世界初
+
+hello,
+
+
+i am a software novice.
+i will do with never giveup spirit.
+
+
+thanks and bestregards,
+tama
